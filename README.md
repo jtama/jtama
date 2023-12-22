@@ -12,13 +12,13 @@ Welcome to my profile. I am absolutely sure you lost yourself, but just in case.
 
 [![slides first page](/images/quarkus-greener.jpg)](https://jtama.github.io/quarkus-greener-better-faster-stronger/#/)
 
-(Le code)[https://github.com/jtama/quarkus-extension-demo]
+[Le code] (https://github.com/jtama/quarkus-extension-demo)
 
 ### Les super-pouvoirs du package `java.util.function`
 `
 [![slides first page](/images/les-super-pouvoirs.jpg)](https://jtama.github.io/les-super-pouvoirs-du-package-java.util.function/#/)
 
-(Le code)[https://github.com/jtama/les-super-pouvoirs-du-package-java.util.function]
+[Le code)](https://github.com/jtama/les-super-pouvoirs-du-package-java.util.function)
 
 ### Alice au pays d'OpenTelemtry
 
