@@ -2,17 +2,27 @@
 
 Welcome to my profile. I am absolutely sure you lost yourself, but just in case...
 
+## Home
+
+[Over there](https://jtama.github.io/) you will find my blog, my conferences slides and some other stuff.
+
 ## My Github Stats
 <img src="https://github-readme-stats.vercel.app/api?username=jtama&show_icons=true&theme=radical&count_private=true&hide_border=true" style="width:55%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtama&theme=radical&count_private=true&hide_border=true&layout=compact&hide=html&langs_count=6" style="width:42%" />
 
 
 ## My conferences slides
 
-### Quarkus: Greener, Better, Faster, Stronger
+### OpenRewrite: Refactoring as code
 
-[![slides first page](/images/quarkus-greener.jpg)](https://jtama.github.io/quarkus-greener-better-faster-stronger/#/)
+[![slides first page](/images/openrewrite-refactor.png)](https://jtama.github.io/quarkus-greener-better-faster-stronger/#/)
 
 [Le code](https://github.com/jtama/quarkus-extension-demo)
+
+### To Gather, or not to Gather ? that is the question.
+
+[![slides first page](/images/gather.png)](https://jtama.github.io/to-gather-or-not-to-gather/#)
+
+[Le code](https://github.com/jtama/to-gather-or-not-to-gather)
 
 ### Les super-pouvoirs du package `java.util.function`
 `
