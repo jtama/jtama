@@ -16,13 +16,17 @@ Welcome to my profile. I am absolutely sure you lost yourself, but just in case.
 
 [![slides first page](/images/openrewrite-refactor.png)](https://jtama.github.io/quarkus-greener-better-faster-stronger/#/)
 
-[Le code](https://github.com/jtama/quarkus-extension-demo)
-
 ### To Gather, or not to Gather ? that is the question.
 
 [![slides first page](/images/gather.png)](https://jtama.github.io/to-gather-or-not-to-gather/#)
 
 [Le code](https://github.com/jtama/to-gather-or-not-to-gather)
+
+### Quarkus: Greener, Better, Faster, Stronger
+
+[![slides first page](/images/quarkus-greener.jpg)](https://jtama.github.io/quarkus-greener-better-faster-stronger/#/)
+
+[Le code](https://github.com/jtama/quarkus-extension-demo)
 
 ### Les super-pouvoirs du package `java.util.function`
 `
