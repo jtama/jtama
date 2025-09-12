@@ -7,7 +7,7 @@ Welcome to my profile. I am absolutely sure you lost yourself, but just in case.
 [Over there](https://jtama.github.io/) you will find my blog, my conferences slides and some other stuff.
 
 ## My Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=jtama&show_icons=true&theme=radical&count_private=true&hide_border=true" style="width:55%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtama&theme=radical&count_private=true&hide_border=true&layout=compact&hide=html&langs_count=6" style="width:42%" />
+<img src="https://github-readme-stats.vercel.app/api?username=jtama&show_icons=true&theme=radical&count_private=true&hide_border=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" style="width:55%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jtama&theme=radical&count_private=true&hide_border=true&layout=compact&hide=html&langs_count=6&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be" style="width:42%" />
 
 
 ## My conferences slides
